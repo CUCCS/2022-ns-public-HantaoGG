@@ -185,7 +185,7 @@ sudo ufw enable && sudo ufw deny 80/tcp
 ```
 sudo nmap -sS -p 80 172.16.111.117
 ```
-![nmap](img\tcp_stealth_scan_deny_nmap.png)
+![nmap](img/tcp_stealth_scan_deny_nmap.png)
 
 ### TCP Xmas scan
 
@@ -429,7 +429,7 @@ sudo ufw enable
 
 ![method](img/method_1.png)
 
-2.此次实验探究几种扫描程序的特点，故结构也即操作步骤是大体相同的。因此我们可以提前把结构写好，然后`ctrl cv`，节省时间精力，更高效的进行实验。`
+2.此次实验探究几种扫描程序的特点，故结构也即操作步骤是大体相同的。因此我们可以提前把结构写好，然后`ctrl cv`，节省时间精力，更高效的进行实验。
 
 ![method](img/method_2.png)
 
